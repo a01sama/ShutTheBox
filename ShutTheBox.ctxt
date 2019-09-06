@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ShutTheBox
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ShutTheBox\ here.\r\n\r\n\ @author\ (Abdul\ Samad)\r\n\ @version\ (Spring\ 2018)\r\n
+comment1.params=
+comment1.target=ShutTheBox()
+comment2.params=
+comment2.target=int\ getDice()
+comment3.params=arr
+comment3.target=long\ concatenate(java.util.ArrayList)
+comment4.params=arr\ size\ dice\ head\ first\ next\ next2\ x\ y\ i
+comment4.target=void\ LisOkay(java.util.ArrayList,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment5.params=arr\ size\ dice\ head\ first\ next\ x\ y\ i
+comment5.target=void\ HisOkay(java.util.ArrayList,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment6.params=
+comment6.target=void\ runExperiment()
+numComments=7
